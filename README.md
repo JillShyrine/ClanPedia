@@ -1,2 +1,2 @@
 # ClanPedia
- Connect and complete but needs polishing!
+ Connected and complete but needs polishing!
